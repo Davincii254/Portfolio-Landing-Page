@@ -1,4 +1,4 @@
-# -Portfolio-Landing-Page
+# Portfolio-Landing-Page
 VICTOR KURIA'S PORTFOLIO.
 
 This project has been created by Victor Kuria.
