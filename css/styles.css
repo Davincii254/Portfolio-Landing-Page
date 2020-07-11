@@ -18,3 +18,19 @@ h5{
   padding: 50px;
   margin: 20px;
 }
+.rovaku{
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+.me{
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+img{
+  height: 100%;
+  width: 100%;
+}
